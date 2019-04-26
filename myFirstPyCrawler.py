@@ -67,14 +67,21 @@ sources = [src.replace("../..", "https://www.cwb.gov.tw/V7") for src in srcs]
 for x in sources:
     print(x)
 
+# Get Img. Title
+imgs = [x.img for x in texts]
+srcs = [i.attrs["title"] for i in imgs]
+for x in srcs:
+    print(x)
+
+
 # Package Info. into dict. or list
 
 # Every Half-Day Weather in wtf[]
 wtf = []
 for x in range(len(texts)):  # 0-307
     www = {}
-    www["temp"] = texts[x].text.strip()
-    www["weather"] = sources[x]
+    www["溫度"] = texts[x].text.strip()
+    www["天氣狀態"] = srcs[x]
     wtf.append(www)
 print(wtf)
 
