@@ -1,0 +1,2048 @@
+{
+  "臺中市": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/07.gif",
+          "temp": "24 ~ 29"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "29 ~ 32"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "23 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "24 ~ 30"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/07.gif",
+          "temp": "23 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "23 ~ 30"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/12.gif",
+          "temp": "24 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/24.gif",
+          "temp": "23 ~ 31"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/12.gif",
+          "temp": "24 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "24 ~ 31"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "22 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "24 ~ 29"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "22 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/36.gif",
+          "temp": "22 ~ 27"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "宜蘭縣": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/26.gif",
+          "temp": "22 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "27 ~ 30"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/26.gif",
+          "temp": "22 ~ 23"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/26.gif",
+          "temp": "22 ~ 24"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "22 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/12.gif",
+          "temp": "22 ~ 29"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/24.gif",
+          "temp": "22 ~ 31"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "23 ~ 32"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "21 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "23 ~ 30"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/06.gif",
+          "temp": "21 ~ 23"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/31.gif",
+          "temp": "21 ~ 25"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "桃園市": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "22 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "27 ~ 29"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "22 ~ 24"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "22 ~ 25"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "23 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/06.gif",
+          "temp": "22 ~ 29"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "22 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "23 ~ 30"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "22 ~ 30"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "20 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/36.gif",
+          "temp": "23 ~ 28"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "20 ~ 23"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/36.gif",
+          "temp": "20 ~ 25"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "金門縣": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/12.gif",
+          "temp": "20 ~ 24"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/12.gif",
+          "temp": "24 ~ 29"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "19 ~ 22"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "20 ~ 25"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/06.gif",
+          "temp": "21 ~ 23"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/12.gif",
+          "temp": "19 ~ 26"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "22 ~ 24"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "21 ~ 27"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/17.gif",
+          "temp": "22 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "22 ~ 27"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "19 ~ 22"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "22 ~ 27"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "19 ~ 22"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "19 ~ 25"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "雲林縣": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "28 ~ 30"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "22 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "23 ~ 28"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "22 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "22 ~ 29"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "23 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "22 ~ 30"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "23 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "23 ~ 30"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "22 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "23 ~ 29"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "22 ~ 24"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/36.gif",
+          "temp": "22 ~ 26"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "臺北市": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/12.gif",
+          "temp": "22 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "26 ~ 30"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "22 ~ 24"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/06.gif",
+          "temp": "22 ~ 25"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "23 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "22 ~ 30"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "23 ~ 32"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "24 ~ 29"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "23 ~ 32"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "20 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "24 ~ 29"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "20 ~ 23"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/31.gif",
+          "temp": "20 ~ 25"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "屏東縣": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/12.gif",
+          "temp": "24 ~ 30"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "30 ~ 32"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "23 ~ 29"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "24 ~ 32"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "23 ~ 29"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "23 ~ 32"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "24 ~ 30"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "23 ~ 32"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/17.gif",
+          "temp": "23 ~ 29"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "24 ~ 32"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/17.gif",
+          "temp": "23 ~ 29"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/36.gif",
+          "temp": "23 ~ 31"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/17.gif",
+          "temp": "23 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "23 ~ 30"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "基隆市": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/12.gif",
+          "temp": "22 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/12.gif",
+          "temp": "25 ~ 27"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/06.gif",
+          "temp": "22 ~ 23"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/26.gif",
+          "temp": "22 ~ 23"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "24 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/12.gif",
+          "temp": "22 ~ 29"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "24 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "24 ~ 29"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "24 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "24 ~ 29"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "20 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "24 ~ 28"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "20 ~ 23"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/06.gif",
+          "temp": "21 ~ 24"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "臺東縣": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "25 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/12.gif",
+          "temp": "28 ~ 30"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/06.gif",
+          "temp": "24 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/12.gif",
+          "temp": "25 ~ 31"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/12.gif",
+          "temp": "24 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/12.gif",
+          "temp": "24 ~ 28"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "24 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/12.gif",
+          "temp": "24 ~ 30"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "24 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "24 ~ 32"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/17.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "24 ~ 31"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "23 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "23 ~ 27"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "連江縣": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "17 ~ 20"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "20 ~ 24"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/03.gif",
+          "temp": "17 ~ 19"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/06.gif",
+          "temp": "17 ~ 22"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "19 ~ 20"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/12.gif",
+          "temp": "17 ~ 22"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/03.gif",
+          "temp": "21 ~ 23"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "19 ~ 26"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/36.gif",
+          "temp": "21 ~ 23"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/03.gif",
+          "temp": "21 ~ 27"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/17.gif",
+          "temp": "18 ~ 21"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/31.gif",
+          "temp": "21 ~ 24"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/06.gif",
+          "temp": "18 ~ 20"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "18 ~ 23"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "南投縣": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "23 ~ 29"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "29 ~ 32"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "22 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "23 ~ 29"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/07.gif",
+          "temp": "23 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "22 ~ 30"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/12.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/24.gif",
+          "temp": "23 ~ 31"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "23 ~ 31"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "22 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "23 ~ 29"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "22 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/36.gif",
+          "temp": "22 ~ 26"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "澎湖縣": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/12.gif",
+          "temp": "24 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/12.gif",
+          "temp": "26 ~ 29"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "23 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/07.gif",
+          "temp": "24 ~ 28"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "24 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "23 ~ 27"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "24 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "24 ~ 29"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/07.gif",
+          "temp": "24 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "24 ~ 29"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "23 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "24 ~ 29"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "23 ~ 24"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/06.gif",
+          "temp": "23 ~ 27"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "苗栗縣": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/07.gif",
+          "temp": "22 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/12.gif",
+          "temp": "26 ~ 29"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "22 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "22 ~ 29"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/07.gif",
+          "temp": "22 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "22 ~ 27"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "24 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "22 ~ 29"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/07.gif",
+          "temp": "24 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "24 ~ 30"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "20 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/36.gif",
+          "temp": "24 ~ 28"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "20 ~ 23"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/06.gif",
+          "temp": "20 ~ 25"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "嘉義市": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "28 ~ 32"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "22 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "23 ~ 30"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "23 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "22 ~ 30"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "23 ~ 31"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "23 ~ 31"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "22 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "23 ~ 30"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/17.gif",
+          "temp": "22 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/36.gif",
+          "temp": "22 ~ 27"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "新竹縣": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/07.gif",
+          "temp": "22 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "28 ~ 31"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "22 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "22 ~ 29"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "22 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "22 ~ 28"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "22 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "22 ~ 29"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "24 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "22 ~ 30"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "20 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "24 ~ 28"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "20 ~ 23"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/06.gif",
+          "temp": "20 ~ 25"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "花蓮縣": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/12.gif",
+          "temp": "23 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "27 ~ 30"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/26.gif",
+          "temp": "22 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/26.gif",
+          "temp": "23 ~ 27"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "23 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/12.gif",
+          "temp": "22 ~ 28"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "24 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/12.gif",
+          "temp": "23 ~ 30"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "24 ~ 31"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "22 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "23 ~ 30"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "22 ~ 24"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/36.gif",
+          "temp": "22 ~ 25"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "高雄市": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "25 ~ 29"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "29 ~ 31"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "25 ~ 29"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "25 ~ 30"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "25 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "25 ~ 30"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "26 ~ 29"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "25 ~ 31"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/17.gif",
+          "temp": "25 ~ 29"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "26 ~ 30"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/17.gif",
+          "temp": "25 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "25 ~ 30"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "25 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "25 ~ 29"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "臺南市": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "25 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "28 ~ 30"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "24 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "25 ~ 30"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "25 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/05.gif",
+          "temp": "24 ~ 29"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "25 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "25 ~ 30"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/17.gif",
+          "temp": "25 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "25 ~ 30"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "24 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "25 ~ 29"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "24 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/36.gif",
+          "temp": "24 ~ 28"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "彰化縣": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "28 ~ 31"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "22 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "23 ~ 30"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/07.gif",
+          "temp": "22 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "22 ~ 29"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/12.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/24.gif",
+          "temp": "22 ~ 30"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "23 ~ 31"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "21 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "23 ~ 28"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "21 ~ 24"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/06.gif",
+          "temp": "21 ~ 26"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "嘉義縣": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "28 ~ 31"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "22 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "23 ~ 30"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "22 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "22 ~ 30"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "24 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "22 ~ 31"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "23 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "24 ~ 30"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "22 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "23 ~ 29"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "22 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/36.gif",
+          "temp": "22 ~ 26"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "新北市": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "22 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "27 ~ 30"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "23 ~ 24"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/05.gif",
+          "temp": "22 ~ 25"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "24 ~ 27"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/13.gif",
+          "temp": "23 ~ 30"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/24.gif",
+          "temp": "24 ~ 31"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "23 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/05.gif",
+          "temp": "23 ~ 31"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "21 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/36.gif",
+          "temp": "23 ~ 29"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "21 ~ 23"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/36.gif",
+          "temp": "21 ~ 25"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ],
+  "新竹市": [
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/07.gif",
+          "temp": "22 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "28 ~ 30"
+        }
+      },
+      "日期": "04/26星期五"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/05.gif",
+          "temp": "22 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "22 ~ 28"
+        }
+      },
+      "日期": "04/27星期六"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "22 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "22 ~ 28"
+        }
+      },
+      "日期": "04/28星期日"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/08.gif",
+          "temp": "23 ~ 26"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/08.gif",
+          "temp": "22 ~ 28"
+        }
+      },
+      "日期": "04/29星期一"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "24 ~ 28"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/02.gif",
+          "temp": "23 ~ 29"
+        }
+      },
+      "日期": "04/30星期二"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/31.gif",
+          "temp": "20 ~ 25"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/17.gif",
+          "temp": "24 ~ 28"
+        }
+      },
+      "日期": "05/01星期三"
+    },
+    {
+      "天氣": {
+        "晚上": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/night/02.gif",
+          "temp": "20 ~ 23"
+        },
+        "白天": {
+          "weather": "https://www.cwb.gov.tw/V7/symbol/weather/gif/day/06.gif",
+          "temp": "20 ~ 25"
+        }
+      },
+      "日期": "05/02星期四"
+    }
+  ]
+}
